@@ -1,3 +1,14 @@
 Name: Jafry
 BMI:19.03
-Category:normal
+Category:normalName: Jeziy
+Weight: 75.0 kg
+Height: 1.88 metres
+BMI: 21.22
+Category: normal
+------------------------------
+Name: Chary
+Weight: 60.0 kg
+Height: 1.72 metres
+BMI: 20.28
+Category: normal
+------------------------------
